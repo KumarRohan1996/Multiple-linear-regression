@@ -1,2 +1,2 @@
-# Multiple-linear-regression
+# Multiple-linear-regression-python
 Multiple linear regression
